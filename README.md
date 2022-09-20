@@ -1,2 +1,4 @@
-# J2KB_7th
-J2KB 7th Coding Study Subject File
+# J2KB 7기 서브젝트 코드학습 모음
+
+---
+코드학습을 위해 만든 레포입니다.
